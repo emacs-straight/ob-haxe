@@ -5,7 +5,7 @@
 ;; Author: Ian Martins <ianxm@jhu.edu>
 ;; Keywords: literate programming, reproducible research
 ;; Homepage: https://orgmode.org
-;; Version: 0
+;; Version: 1.0
 
 ;; This file is not part of GNU Emacs.
 
@@ -24,7 +24,8 @@
 
 ;;; Commentary:
 
-;; Org-Babel support for evaluating haxe source code.
+;; Org Babel support for evaluating haxe source code.
+;; https://orgmode.org/worg/org-contrib/babel/languages/ob-doc-haxe.html
 
 ;;; Code:
 (require 'ob)
